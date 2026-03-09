@@ -131,7 +131,7 @@ Installation
 
 Clone the repository
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/geethika00902/Healthcare-Readmission-Risk-Prediction-with-AI-Agent-Based-Data-Analytics
 
 Move into the project directory
 
